@@ -1,0 +1,30 @@
+{
+    "homework": "",
+    "questions": [
+        {
+            "question_number": 1,
+            "subparts": [
+                {
+                    "subpart": "a",
+                    "description": "What is the mass in grams of one mole of uranyl acetate `UO2(CH3COO)2 * 2H2O`?",
+                    "max_marks": 8
+                },
+                {
+                    "subpart": "b",
+                    "description": "What is the mass in grams of one mole of lithium?",
+                    "max_marks": 8
+                },
+                {
+                    "subpart": "c",
+                    "description": "Comment on the difference.",
+                    "max_marks": 4
+                }
+            ]
+        },
+        {
+            "question_number": 2,
+            "description": "How many grams (with a precision of milligrams) of U234 are there in 1.000 kg of natural uranium? (See Shultis and Faw table C.1 for atomic abundances uploaded on CANVAS. Also, do NOT confuse with mass abundances, which are NOT reported).",
+            "max_marks": 20
+        }
+    ]
+}

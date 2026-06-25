@@ -1,0 +1,18 @@
+```
+{
+    "questions": [
+      {
+        "question_number": 1,
+        "subparts": 
+          {
+            "subpart": "a",
+            "description": "What is the mass in grams of one mole of uranyl acetate  `UO2(CH3COO)2 * 2H2O`?",
+            max_marks="5"
+            "rubric": ""
+        }
+        }
+        ]
+    
+}
+
+```
